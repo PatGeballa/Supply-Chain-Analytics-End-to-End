@@ -124,12 +124,16 @@ Monitor warehouse vulnerability
 Quantify financial risk from inventory shortages
 
 Screenshots
-![https://github.com/PatGeballa/Supply-Chain-Analytics-End-to-End/blob/main/Dashboard%20Screenshots/Screenshot%202026-02-08%20191501.png?raw=true]
-
-https://github.com/PatGeballa/Supply-Chain-Analytics-End-to-End/blob/main/Dashboard%20Screenshots/Inventory%20Planning%20and%20Stockout%20Risk.png?raw=true
+<img width="1012" height="556" alt="image" src="https://github.com/user-attachments/assets/0ffc2af6-9443-4abb-8833-d45c604e6154" />
 
 <img width="1008" height="570" alt="image" src="https://github.com/user-attachments/assets/db20e0c8-b9ec-4cb5-94c0-937d4465a96e" />
 
+<img width="1011" height="561" alt="image" src="https://github.com/user-attachments/assets/061abe6e-5c63-4241-b924-aafb4fddc7f3" />
+
+
+<img width="1011" height="565" alt="image" src="https://github.com/user-attachments/assets/b6bd5acc-6451-4c81-bce0-8e906aa48a2c" />
+
+<img width="1016" height="569" alt="image" src="https://github.com/user-attachments/assets/a8ccfddb-9461-4a4c-8fe6-afb387b226fd" />
 
 
 What This Project Demonstrates
